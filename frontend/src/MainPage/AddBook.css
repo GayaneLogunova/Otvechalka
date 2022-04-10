@@ -1,0 +1,30 @@
+.addBook {
+    margin-left: 20%;
+    width: 60%;
+    margin-right: 20%;
+    margin-top: 100px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.addBook__AddFile {
+    font-size: 20px;
+}
+
+.addBook__AddFile_Icon {
+    margin-right: 15px;
+    height: 30px;
+}
+
+.addBook_Subheader {
+    align-items: center;
+    display: flex;
+    margin-left: 50px;
+}
+
+.addBook_Error {
+    position: absolute;
+    right: 10px;
+    top: 75px;
+}

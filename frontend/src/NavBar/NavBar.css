@@ -1,0 +1,12 @@
+.navBar__name {
+    margin-right: 10px;
+}
+
+.navBar {
+    position: static;
+    background: #FFFF;
+    height: 64px;
+    box-shadow: 0px 8px 32px -4px rgba(50, 50, 50, 0.1);
+    flex-shrink: 0;
+    width: 100%;
+}

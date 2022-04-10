@@ -1,0 +1,13 @@
+.library {
+    margin-top: 30px;
+}
+
+.library__autocompleteContainer {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.library__autocomplete {
+    width: 40%;
+}

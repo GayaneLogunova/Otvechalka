@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2e07832.css",
+    "main.js": "/static/js/main.6eaba9e4.js",
+    "static/js/787.928dcbdb.chunk.js": "/static/js/787.928dcbdb.chunk.js",
+    "static/media/black_beach.jpg": "/static/media/black_beach.b6c0d7de85a416273f31.jpg",
+    "index.html": "/index.html",
+    "main.a2e07832.css.map": "/static/css/main.a2e07832.css.map",
+    "main.6eaba9e4.js.map": "/static/js/main.6eaba9e4.js.map",
+    "787.928dcbdb.chunk.js.map": "/static/js/787.928dcbdb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2e07832.css",
+    "static/js/main.6eaba9e4.js"
+  ]
+}

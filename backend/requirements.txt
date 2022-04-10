@@ -1,0 +1,5 @@
+fastapi
+transformers
+psycopg2-binary
+torch
+fastapi

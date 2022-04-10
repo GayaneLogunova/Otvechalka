@@ -1,0 +1,31 @@
+.answerPage {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.answerPage_Error {
+    position: absolute;
+    right: 10px;
+}
+
+.answerPage_questionContainer {
+    display: flex;
+    flex-direction: column;
+    /* max-width: fit-content;
+    min-width: 30%; */
+    min-width: 500px;
+    margin-top: 55px;
+}
+
+.answerPage_questionInput {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 24px;
+}
+
+.answerPage_displayButtonsContainer {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
